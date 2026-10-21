@@ -1,3 +1,3 @@
 I’m a Principal Systems Engineer based in Hong Kong but with global experience. I build the evaluation, orchestration, and governance layers that make coding agents and AI platforms reliable in real repositories and regulated environments: benchmark harnesses, failure datasets, trace/observability, repository-aware context, CI/CD/OCI controls, and offline-capable edge systems.
 
-Recent focus: coding-agent evaluation foundations, enterprise repository audits, global source-code platform consolidation, container workload governance, and portable agent profiles through my open-source Agentic Kernel work.
+**Recent focus:** coding-agent evaluation foundations, enterprise repository audits, global source-code platform consolidation, container workload governance, and portable agent profiles through my open-source Agentic Kernel work.
